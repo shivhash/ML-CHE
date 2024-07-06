@@ -23,7 +23,7 @@
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/air-quality-ml.git
+   git clone [https://github.com/your_username/air-quality-ml.git](https://github.com/shivhash/ML-CHE.git
    ```
 2. Navigate to the project directory.
 3. Explore the Jupyter notebooks in `notebooks/` for detailed analysis and model development.
